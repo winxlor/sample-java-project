@@ -1,5 +1,7 @@
 # Sample Java Project
 
+merge_winxlor_2
+
 vishalanand_update_1
 Changing arbitrary contents
 Checking the merge conflict cases
