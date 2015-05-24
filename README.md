@@ -1,12 +1,20 @@
 # Sample Java Project
 
+merge_winxlor_4
+Hello
 merge_vishalanand_4
 
+merge_winxlor_3
 merge_vishalanand_3
 
+merge_vishalanand_2
 merge_winxlor_2
 
+winxlor_update_1
 vishalanand_update_1
+
+Another arbitrary change
+
 Changing arbitrary contents
 Checking the merge conflict cases
 
