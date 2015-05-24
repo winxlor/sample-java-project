@@ -1,0 +1,22 @@
+Fetch, merge and push tryouts
+
+First fetch, then commit local code;
+Go for merge command, and then in case of conflict, resolve it and add the changed code.
+Then commit it. Voila!
+Finally push it to the origin or the branch in picture
+
+git fetch upstream 
+git status
+vi <file_name> (Files local to the current local branch; which also includes the changes before fetching upstream)
+git add --all
+git commit -m "Final testing"
+git merge upstream/master
+Fix merge conflicts (if any)
+git add --all
+git commit
+(Add appropriate message for the merge conflict resolution part in detail)
+[master c67abdf] Merge remote-tracking branch 'upstream/master'
+git merge upstream/master
+Already up-to-date. (Checking if everything went fine)
+git push -u origin master
+Branch master set up to track remote branch master from origin.
